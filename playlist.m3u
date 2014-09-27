@@ -85,8 +85,6 @@ http://www.htvonline.com.vn/livetv/htv7-34336E61.html
 http://www.htvonline.com.vn/livetv/htv9-37356E61.html
 #EXTINF:-1 group-title="HDTV" tvg-logo="..\Channel\Logo\HTVC hd.png" tvg-name="77",HTVC+ HD
 http://www.htvonline.com.vn/livetv/htvc-plus-htvc+-hd-34346E61.html
-#EXTINF:-1 group-title="HDTV" tvg-logo="..\Channel\Logo\M Channel HD.png" tvg-name="96",Channel M HD
-http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?bitrate=800&channel_id=8237601ce3ea4bae8332ebb0d88dba87
 #EXTINF:-1 group-title="OTHER CHANNEL" tvg-logo="..\Channel\Logo\Yeah1 Special.png" tvg-name="243",Yeah1 Special
 http://www.socialtv.vn/index.php?option=com_vtv&view=play&type=channel&Itemid=119&id=424
 #EXTINF:-1 group-title="OTHER CHANNEL" tvg-logo="..\Channel\Logo\Yeah1TV.png" tvg-name="246",Yeah1 TV
@@ -228,13 +226,13 @@ rtmp://$OPT:rtmp-raw=rtmpe://112.197.2.154/glive//sctvhdthethao_2 live=1 swfUrl=
 #EXTINF:-1 $ExtFilter="Sports" group-title="HTV" tvg-logo="..\Channel\logo\HTVThethao.png" tvg-name="69",HTVC Thể Thao
 http://www.htvonline.com.vn/livetv/htv-the-thao-34386E61.html
 #EXTINF:-1 $ExtFilter="Sports" group-title="WORLD TV" tvg-logo="..\Channel\Logo\Sky Sports 1.png" tvg-name="145",Sky Sports 1
-rtmp://$OPT:rtmp-raw=rtmpe://31.220.0.198/live playpath=sky1 pageUrl=http://www.pvtserverz.com/
+rtmp://$OPT:rtmp-raw=rtmp://31.220.0.86:1935/live playpath=kingsx1 swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/embed.php?live=kingpremier&vw=620&vh=490 token=%ZZri(nKa@#Z
 #EXTINF:-1 $ExtFilter="Sports" group-title="WORLD TV" tvg-logo="..\Channel\Logo\Sky sports 2.png" tvg-name="145",Sky Sports 2
 rtmp://$OPT:rtmp-raw=rtmp://31.220.0.104:1935/live/sskk2 pageUrl=http://www.flashtv.co/hpg_disco token=%ZZri(nKa@#Z
 #EXTINF:-1 $ExtFilter="Sports" group-title="WORLD TV" tvg-logo="..\Channel\Logo\sky sports 3.png" tvg-name="145",Sky Sports 3
 rtmp://$OPT:rtmp-raw=rtmp://31.220.0.104:1935/live/sskk3 pageUrl=http://www.flashtv.co/hpg_disco token=%ZZri(nKa@#Z
 #EXTINF:-1 $ExtFilter="Sports" group-title="WORLD TV" tvg-logo="..\Channel\Logo\sky sports 4.png" tvg-name="145",Sky Sports 4
-rtmp://$OPT:rtmp-raw=rtmp://31.220.0.104:1935/live/sskk4 pageUrl=http://www.flashtv.co/hpg_disco token=%ZZri(nKa@#Z
+rtmp://$OPT:rtmp-raw=rtmp://31.220.0.86:1935/live playpath=kings4 swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/embed.php?live=kingpremier&vw=620&vh=490 token=%ZZri(nKa@#Z
 #EXTINF:-1 $ExtFilter="Sports" group-title="WORLD TV" tvg-logo="..\Channel\logo\Astro Super Sport.png" tvg-name="255",Astro Super Sport 1
 http://www.wezatv.com/dooball/assp1.php
 #EXTINF:-1 $ExtFilter="Sports" group-title="WORLD TV" tvg-logo="..\Channel\logo\Astro Super Sport.png" tvg-name="255",Astro Super Sport 2
@@ -248,9 +246,9 @@ http://www.wezatv.com/dooball/fox.php
 #EXTINF:-1 $ExtFilter="Sports" group-title="WORLD TV" tvg-logo="..\Channel\Logo\Fox Sports 2.png" tvg-name="89",Fox Sports 2
 http://www.wezatv.com/dooball/star.php
 #EXTINF:-1 $ExtFilter="Sports" group-title="WORLD TV" tvg-logo="..\Channel\Logo\BT Sport 1.png" tvg-name="198",BT Sport 1
-rtmp://$OPT:rtmp-raw=rtmp://31.220.0.104:1935/live/btssk1 pageUrl=http://www.flashtv.co/hpg_disco token=%ZZri(nKa@#Z
+rtmp://$OPT:rtmp-raw=rtmp://31.220.0.86:1935/live playpath=kingbt1 swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/embed.php?live=kingpremier&vw=620&vh=490 token=%ZZri(nKa@#Z
 #EXTINF:-1 $ExtFilter="Sports" group-title="WORLD TV" tvg-logo="..\Channel\Logo\BT Sport 2.png" tvg-name="212",BT Sport 2
-rtmp://$OPT:rtmp-raw=rtmp://31.220.0.104:1935/live/btssk2 pageUrl=http://www.flashtv.co/hpg_disco token=%ZZri(nKa@#Z
+rtmp://$OPT:rtmp-raw=rtmp://31.220.0.86:1935/live playpath=kingbt2 swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/embed.php?live=kingpremier&vw=620&vh=490 token=%ZZri(nKa@#Z
 #EXTINF:-1 $ExtFilter="Sports" group-title="WORLD TV" tvg-logo="..\Channel\Logo\Sky Sports F1.png" tvg-name="92",Sky Sports F1
 rtmp://$OPT:rtmp-raw=rtmp://31.220.0.104:1935/live/skksnf1 pageUrl=http://www.flashtv.co/hpg_disco token=%ZZri(nKa@#Z
 #EXTINF:-1 $ExtFilter="Sports" group-title="WORLD TV" tvg-logo="..\Channel\Logo\Sky Sports 5.png" tvg-name="145",Sky Sports 5
@@ -268,7 +266,7 @@ http://www.htvonline.com.vn/livetv/vtv6-hd-3133366E61.html
 #EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\Logo\vtv3hd.png" tvg-name="3",VTV3 HD
 http://www.htvonline.com.vn/livetv/vtv3-hd-3133356E61.html
 #EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\Logo\VTC3 HD.png" tvg-name="32",VTC3 HD
-http://www.htvonline.com.vn/livetv/vtc3-hd-3133376E61.html#EXTINF:-1 $ExtFilter="Sports" group-title="MyTV" tvg-logo="..\Channel\Logo\FOX SPORTS.png" tvg-name="89",Fox Sports
+http://www.htvonline.com.vn/livetv/vtc3-hd-3133376E61.html
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\EuroSport 2.png" tvg-name="107",Euro Sport 2
 http://torrent-tv.ru/torrent-online.php?translation=5984
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\Futbol 1.png" tvg-name="188",Futbol 1
@@ -345,12 +343,6 @@ rtmp://$OPT:rtmp-raw=rtmpe://112.197.2.154/live//sctv17_2 live=1 swfUrl=http://t
 http://www.htvonline.com.vn/livetv/htvc-phim-3131306E61.html
 #EXTINF:-1 $ExtFilter="Movies" group-title="HTV" tvg-logo="..\Channel\Logo\Thuan viet.png" tvg-name="76",Thuần Việt
 http://www.htvonline.com.vn/livetv/thua%CC%80n-vie%CC%A3t-3130396E61.html
-#EXTINF:-1 $ExtFilter="Movies" group-title="WORLD TV" tvg-logo="..\Channel\Logo\ANIMAX.png" tvg-name="124",Animax
-http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?bitrate=800&channel_id=d3edb48a8bb847c78432270e23ddca73
-#EXTINF:-1 $ExtFilter="Movies" group-title="WORLD TV" tvg-logo="..\Channel\Logo\WBTV.png" tvg-name="86",WBTV
-http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?bitrate=800&channel_id=06e717f5ec0c4657a8c76c4dfcf9449b
-#EXTINF:-1 $ExtFilter="Movies" group-title="WORLD TV" tvg-logo="..\Channel\Logo\THRIL MOVIES.png" tvg-name="87",Thrill Movies
-http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?bitrate=800&channel_id=c316ed9333e54442b25077f0bb3cc269
 #EXTINF:-1 $ExtFilter="Movies" group-title="WORLD TV" tvg-logo="..\Channel\Logo\STAR MOVIES.png" tvg-name="83",Star Movies
 http://123.29.73.99/ilive.m3u8?c=vstv038&token=bFXSaaKLedwyXq60Ln71iA&time=1403447304&q=high&type=tv&tk=a3ea1480b8a373a69f4ebb5fc37562b2
 #EXTINF:-1 $ExtFilter="Movies" group-title="WORLD TV" tvg-logo="..\Channel\Logo\STAR WORLD.png" tvg-name="85",Star World
@@ -369,10 +361,6 @@ http://www.htvonline.com.vn/livetv/htvc-phim-hd-35326E61.html
 http://www.htvonline.com.vn/livetv/star-movie-hd-3132376E61.html
 #EXTINF:-1 $ExtFilter="Movies" group-title="HDTV" tvg-logo="..\Channel\Logo\STAR WORLD HD.png" tvg-name="85",Star World HD
 http://www.htvonline.com.vn/livetv/star-world-hd-3132386E61.html
-#EXTINF:-1 $ExtFilter="Movies" group-title="HDTV" tvg-logo="..\Channel\Logo\FX HD.png" tvg-name="135",FX HD
-http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?bitrate=800&channel_id=2e0e4b05aa6e428593f3b45b710045b7
-#EXTINF:-1 $ExtFilter="Movies" group-title="HDTV" tvg-logo="..\Channel\Logo\FOX Crime HD.png" tvg-name="136",Fox Crime HD
-http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?bitrate=800&channel_id=5028f7ff1d1b4d5f8189690233364737
 #EXTINF:-1 $ExtFilter="Movies" group-title="OTHER CHANNEL" tvg-logo="..\Channel\Logo\Yeah1 Family.png" tvg-name="247",Yeah1 Family
 http://www.socialtv.vn/index.php?option=com_vtv&view=play&type=channel&Itemid=119&id=418
 #EXTINF:-1 $ExtFilter="Movies" group-title="OTHER CHANNEL" tvg-logo="..\Channel\logo\4 Fun TV.png" tvg-name="248",Hài 247
@@ -399,14 +387,8 @@ http://www.htvonline.com.vn/livetv/mtv-31346E61.html
 http://www.giniko.com/watch.php?id=220
 #EXTINF:-1 $ExtFilter="Music" group-title="WORLD TV" tvg-logo="..\Channel\Logo\MTV .png" tvg-name="111",MTV Asia
 http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?bitrate=800&channel_id=ebce2f5139c54eda8b111e5923af9c9e
-#EXTINF:-1 $ExtFilter="Music" group-title="WORLD TV" tvg-logo="..\Channel\Logo\CHANNEL V.png" tvg-name="112",Channel V International
-http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?bitrate=800&channel_id=9e38a0084e6d45d080139a166c60a102
-#EXTINF:-1 $ExtFilter="Music" group-title="WORLD TV" tvg-logo="..\Channel\logo\musiq1.png" tvg-name="95",B4U Music
-http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?bitrate=800&channel_id=81ff107849124ff389814b0b8816b1ba
 #EXTINF:-1 $ExtFilter="Music" group-title="WORLD TV" tvg-logo="..\Channel\logo\CHANNEL V.png" tvg-name="112",Channel V
 http://xemphimso.com/xem-tv/channel-v.127.html
-#EXTINF:-1 $ExtFilter="Music" group-title="HDTV" tvg-logo="..\Channel\Logo\MTV Live HD.png" tvg-name="111",MTV Live HD
-http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?bitrate=800&channel_id=8d45473ff4ca44d79e1abc4516c2fee0
 #EXTINF:-1 $ExtFilter="Music" group-title="OTHER CHANNEL" tvg-logo="..\Channel\Logo\NCT.png" tvg-name="150",NCT
 rtmp://123.30.134.108/live/nctlive
 #EXTINF:-1 $ExtFilter="Music" group-title="OTHER CHANNEL" tvg-logo="..\Channel\Logo\Viet MTV.png" tvg-name="70",Viet MTV
@@ -421,8 +403,6 @@ http://torrent-tv.ru/torrent-online.php?translation=1140
 http://torrent-tv.ru/torrent-online.php?translation=1147
 #EXTINF:-1 $ExtFilter="Music" group-title="Torrent TV" tvg-logo="..\Channel\Logo\Europa Plus TV.png" tvg-name="114",Europa Plus TV
 http://torrent-tv.ru/torrent-online.php?translation=409
-#EXTINF:-1 $ExtFilter="News" group-title="WORLD TV" tvg-logo="..\Channel\Logo\CCTV News.png" tvg-name="230",CCTV News
-http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?bitrate=800&channel_id=0ed1c715dc864ab3912d4015903a3d85
 #EXTINF:-1 $ExtFilter="News" group-title="WORLD TV" tvg-logo="..\Channel\Logo\Russia Today.png" tvg-name="129",Russia Today
 http://giniko.com/watch.php?id=24
 #EXTINF:-1 $ExtFilter="News" group-title="WORLD TV" tvg-logo="..\Channel\Logo\BBC World.png" tvg-name="230",BBC World
