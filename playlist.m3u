@@ -315,6 +315,8 @@ http://torrent-tv.ru/torrent-online.php?translation=7017
 http://torrent-tv.ru/torrent-online.php?translation=1372
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\BT Sport 2.png" tvg-name="212",BT Sport 2
 http://torrent-tv.ru/torrent-online.php?translation=9220
+#EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\NTV+.png" tvg-name="199",NTV+Futbol 3
+http://torrent-tv.ru/torrent-online.php?translation=7017
 #EXTINF:-1 $ExtFilter="Sports" group-title="LIVE SPORTS" tvg-logo="..\Channel\Logo\K+1.png" tvg-name="13",K+ 2
 rtmp://$OPT:rtmp-raw=rtmp://live.csmtalk.vcdn.vn/livetv?ak=/xemtt live=1 swfUrl=http://tv.csmtalk.vcdn.vn/talktv/resource/third-party/jwplayer/jwplayer.flash.swf?06172014 pageUrl=http://tv.csmtalk.vn/
 #EXTINF:-1 $ExtFilter="Sports" group-title="LIVE SPORTS" tvg-logo="..\Channel\Logo\K+1.png" tvg-name="13",K+ 4
@@ -399,8 +401,6 @@ http://www.htvonline.com.vn/livetv/htvc-ca-nhac-34376E61.html
 http://www.htvonline.com.vn/livetv/mtv-31346E61.html
 #EXTINF:-1 $ExtFilter="Music" group-title="WORLD TV" tvg-logo="..\Channel\Logo\Deluxemusic.png" tvg-name="111",Deluxe Music
 http://www.giniko.com/watch.php?id=220
-#EXTINF:-1 $ExtFilter="Music" group-title="WORLD TV" tvg-logo="..\Channel\Logo\MTV .png" tvg-name="111",MTV Asia
-http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?bitrate=800&channel_id=ebce2f5139c54eda8b111e5923af9c9e
 #EXTINF:-1 $ExtFilter="Music" group-title="WORLD TV" tvg-logo="..\Channel\logo\CHANNEL V.png" tvg-name="112",Channel V
 http://xemphimso.com/xem-tv/channel-v.127.html
 #EXTINF:-1 $ExtFilter="Music" group-title="OTHER CHANNEL" tvg-logo="..\Channel\Logo\NCT.png" tvg-name="150",NCT
