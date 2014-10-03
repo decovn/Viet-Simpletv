@@ -309,8 +309,6 @@ http://torrent-tv.ru/torrent-online.php?translation=9221
 http://torrent-tv.ru/torrent-online.php?translation=9219
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\Sky Sports F1.png" tvg-name="92",Sky Sports F1
 http://torrent-tv.ru/torrent-online.php?translation=9299
-#EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\NTV+.png" tvg-name="191",NTV+Sport Hit
-http://torrent-tv.ru/torrent-online.php?translation=7017
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\NTV+.png" tvg-name="191",NTV+Sport Online
 http://torrent-tv.ru/torrent-online.php?translation=1372
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\BT Sport 2.png" tvg-name="212",BT Sport 2
@@ -437,8 +435,6 @@ http://xemphimso.com/xem-tv/bloomberg.180.html
 http://xemphimso.com/xem-tv/channel-newsasia.179.html
 #EXTINF:-1 $ExtFilter="News" group-title="WORLD TV" tvg-logo="..\Channel\Logo\Al Jazeera.png" tvg-name="127",Al Jazeera News
 rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live//aljazeera_eng_high
-#EXTINF:-1 $ExtFilter="News" group-title="WORLD TV" tvg-logo="..\Channel\Logo\SKY NEWS.png" tvg-name="132",Sky News
-http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?bitrate=800&channel_id=31b003ab7e7749a798fe00424e3dd9ff
 #EXTINF:-1 $ExtFilter="News" group-title="OTHER CHANNEL" tvg-logo="..\Channel\Logo\TTXVN.png" tvg-name="149",TTXVN
 http://xemphimso.com/xem-tv/ttxvn.46.html?s=223
 #EXTINF:-1 $ExtFilter="News" group-title="OTHER CHANNEL" tvg-logo="..\Channel\Logo\FBNC.png" tvg-name="209",FBNC
