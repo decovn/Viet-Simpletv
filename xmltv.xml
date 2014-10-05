@@ -1572,4 +1572,10 @@
 <programme start="20130825000000 +0700" stop="20150825000000 +0700" channel="270">
 <title lang="vi">Đài phát thanh tiếng nói  TP.Hồ Chí Minh</title>
 </programme>
+<channel id="271">
+<display-name lang="vi">VOA</display-name>
+</channel>
+<programme start="20130825000000 +0700" stop="20150825000000 +0700" channel="271">
+<title lang="vi">Đài phát thanh tiếng nói Hoa Kỳ</title>
+</programme>
 </tv>
