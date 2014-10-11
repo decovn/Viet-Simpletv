@@ -486,7 +486,7 @@ mms://a823.l211056822.c2110.g.lm.akamaistream.net/D/823/2110/v0001/reflector:568
 #EXTINF:-1 $ExtFilter="Radio" group-title="Radio" tvg-logo="..\Channel\logo\Icons\Radio.png" tvg-name="267",NHK Vietnam
 mms://wm.nhk.or.jp/rj/on_demand/wma/vietnamese.wma
 #EXTINF:-1 $ExtFilter="Radio" group-title="Radio" tvg-logo="..\Channel\logo\Icons\Radio.png" tvg-name="266",RFI Vietnam
-http://95.81.147.3/2584/rfi_en_vietnamien/rfivietnamien.mp3
+http://95.81.155.3/2584/rfi_en_vietnamien/rfivietnamien.mp3
 #EXTINF:-1 $ExtFilter="Radio" group-title="Radio" tvg-logo="..\Channel\logo\Icons\Radio.png" tvg-name="270",VOH
 mms://221.132.37.15/fm
 #EXTINF:-1 $ExtFilter="Radio" group-title="Radio" tvg-logo="..\Channel\Logo\vov-tv.png" tvg-name="268",VOV GT HN
