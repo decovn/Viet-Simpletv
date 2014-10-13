@@ -778,7 +778,7 @@
 <display-name lang="vi">Russia Today</display-name>
 </channel>
 <programme start="20130825000000 +0700" stop="20150825000000 +0700" channel="129">
-<title lang="vi">Kênh tin tức thế giới tiếng Nga</title>
+<title lang="vi">Kênh tin tức thế giới tiếng Anh</title>
 </programme>
 <channel id="130">
 <display-name lang="vi">TV5 Monde Asie</display-name>
