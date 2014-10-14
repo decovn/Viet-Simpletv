@@ -26,7 +26,7 @@ http://live.accessasia.tv:1935/vnptg_channels/vctv10.480p/playlist.m3u8
 #EXTINF:-1 group-title="VTC" tvg-logo="..\Channel\logo\vtc1.png" tvg-name="30",VTC1
 http://tv.vnn.vn/Kenh-truyen-hinh-token/vtc1
 #EXTINF:-1 group-title="VTC" tvg-logo="..\Channel\logo\vtc2.png" tvg-name="31",VTC2
-rtmp://m22.megafun.vn/hctv/vstv006?token=nothing&time=null
+http://xemphimso.com/xem-tv/vtc2.11.html
 #EXTINF:-1 group-title="VTC" tvg-logo="..\Channel\logo\VTC10.png" tvg-name="39",VTC10
 http://www.htvonline.com.vn/livetv/vtc10-3131386E61.html
 #EXTINF:-1 group-title="VTC" tvg-logo="..\Channel\logo\VTC14.png" tvg-name="43",VTC14
