@@ -197,6 +197,10 @@ http://www.htvonline.com.vn/livetv/tayninh-3134316E61.html
 http://xemphimso.com/xem-tv/btv1.33.html
 #EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\btv2.png" tvg-name="156",BTV2
 http://xemphimso.com/xem-tv/btv2.133.html
+#EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="http://img.htvonline.com.vn/livetv/13082014/ninhbinh_76041407894509.png",NinhBinhTV
+http://www.htvonline.com.vn/livetv/ninhbinh-3134326E61.html
+#EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\ThaiNguyenTV.png",ThaiNguyenTV
+http://www.htvonline.com.vn/livetv/thainguyen-3134356E61.html
 #EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\AnGiangTV.png" tvg-name="182",AnGiangTV
 rtmp://113.161.212.25/live//atv1
 #EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\BinhPhuocTV 2.png" tvg-name="183",BinhPhuocTV 2
