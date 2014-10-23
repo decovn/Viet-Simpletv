@@ -1,4 +1,6 @@
 #EXTM3U $BorpasFileFormat="1"
+#EXTINF:-1 group-title="TV 18+" tvg-logo="..\Channel\Logo\JAV HD.png" tvg-name="203",JAV HD
+http://119.81.30.117:1935/mediacache/_definst_/mp4:http2/18X/Caribbeancompr09121_952.mp4/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Movies" group-title="TV 18+" tvg-logo="..\Channel\logo\Love Story.png" tvg-name="203",But Go
 rtmp://lm07.everyon.tv:1935/ptv7/phd772
 #EXTINF:-1 $ExtFilter="Movies" group-title="TV 18+" tvg-logo="..\Channel\logo\Delight Empire HD Movie.png" tvg-name="203",Delight Empire
