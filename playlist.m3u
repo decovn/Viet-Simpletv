@@ -201,6 +201,8 @@ http://xemphimso.com/xem-tv/btv2.133.html
 http://www.htvonline.com.vn/livetv/ninhbinh-3134326E61.html
 #EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\ThaiNguyenTV.png",ThaiNguyenTV
 http://www.htvonline.com.vn/livetv/thainguyen-3134356E61.html
+#EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\KienGiangTV.png" tvg-name="161",KienGiangTV
+http://www.htvonline.com.vn/livetv/kien-giang-3134366E61.html
 #EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\AnGiangTV.png" tvg-name="182",AnGiangTV
 rtmp://113.161.212.25/live//atv1
 #EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\BinhPhuocTV 2.png" tvg-name="183",BinhPhuocTV 2
@@ -439,6 +441,8 @@ http://xemphimso.com/xem-tv/bloomberg.180.html
 http://xemphimso.com/xem-tv/channel-newsasia.179.html
 #EXTINF:-1 $ExtFilter="News" group-title="WORLD TV" tvg-logo="..\Channel\Logo\Russia 2.png" tvg-name="206",Russia 24
 http://giniko.com/watch.php?id=251
+#EXTINF:-1 $ExtFilter="News" group-title="WORLD TV" tvg-logo="..\Channel\Logo\CCTV News.png" tvg-name="230",CCTV News
+http://103.13.228.157/streamlink.m3u8?channel_id=0ed1c715dc864ab3912d4015903a3d85
 #EXTINF:-1 $ExtFilter="News" group-title="WORLD TV" tvg-logo="..\Channel\Logo\Al Jazeera.png" tvg-name="127",Al Jazeera News
 rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live//aljazeera_eng_high
 #EXTINF:-1 $ExtFilter="News" group-title="OTHER CHANNEL" tvg-logo="..\Channel\Logo\TTXVN.png" tvg-name="149",TTXVN
@@ -517,10 +521,4 @@ http://95.81.155.3/2584/rfi_en_vietnamien/rfivietnamien.mp3
 mms://221.132.37.15/fm
 #EXTINF:-1 $ExtFilter="Radio" group-title="Radio" tvg-logo="..\Channel\Logo\vov-tv.png" tvg-name="268",VOV GT HN
 rtmp://vov.radiovietnam.vn/live/vovgthn.stream
-#EXTINF:-1 $ExtFilter="Radio" group-title="Radio" tvg-logo="..\Channel\Logo\vov-tv.png" tvg-name="269",VOV GT TP.HCM
-rtmp://vov.radiovietnam.vn/live/vovgthcm.stream
-#EXTINF:-1 $ExtFilter="Radio" group-title="Radio" tvg-logo="..\Channel\Logo\vov-tv.png" tvg-name="263",VOV1
-rtmp://vov.radiovietnam.vn/live/vov1.stream
-#EXTINF:-1 $ExtFilter="Radio" group-title="Radio" tvg-logo="..\Channel\Logo\vov-tv.png" tvg-name="264",VOV2
-rtmp://vov.radiovietnam.vn/live/vov2.stream
-#EXTINF:-
+#EXTINF:-1 $ExtFilter="Radio" group-title="Radio" tvg-logo="..\Channel\Logo\vov-tv.png" tvg-name="269",V
