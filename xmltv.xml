@@ -1578,4 +1578,10 @@
 <programme start="20130825000000 +0700" stop="20150825000000 +0700" channel="271">
 <title lang="vi">Đài phát thanh tiếng nói Hoa Kỳ</title>
 </programme>
+<channel id="272">
+<display-name lang="vi">Russia 24</display-name>
+</channel>
+<programme start="20130825000000 +0700" stop="20150825000000 +0700" channel="272">
+<title lang="vi">Đài phát thanh tiếng nói Hoa Kỳ</title>
+</programme>
 </tv>
