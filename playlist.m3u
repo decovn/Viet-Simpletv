@@ -247,6 +247,16 @@ http://www.wezatv.com/dooball/assp4.php
 http://www.wezatv.com/dooball/fox.php
 #EXTINF:-1 $ExtFilter="Sports" group-title="WORLD TV" tvg-logo="..\Channel\Logo\Fox Sports 2.png" tvg-name="89",Fox Sports 2
 http://www.wezatv.com/dooball/star.php
+#EXTINF:-1 $ExtFilter="Sports" group-title="WORLD TV" tvg-logo="..\Channel\Logo\BT Sport 1.png" tvg-name="198",BT Sport 1
+rtmp://93.174.95.125:1935/edge/_definst_/thj91224cuxnfr1
+#EXTINF:-1 $ExtFilter="Sports" group-title="WORLD TV" tvg-logo="..\Channel\Logo\BT Sport 2.png" tvg-name="212",BT Sport 2
+rtmp://93.174.95.125:1935/edge/_definst_/z3ua1ed00znttfp
+#EXTINF:-1 $ExtFilter="Sports" group-title="WORLD TV" tvg-logo="..\Channel\Logo\fox soccer.png" tvg-name="89",Fox Soccer Plus
+rtmp://93.174.95.125:1935/edge/_definst_/31j6bqlq8e3wwc5
+#EXTINF:-1 $ExtFilter="Sports" group-title="WORLD TV" tvg-logo="..\Channel\Logo\ESPN.png" tvg-name="90",ESPN
+rtmp://93.174.95.125:1935/edge/_definst_/dp2g1w4ip6v0zoc
+#EXTINF:-1 $ExtFilter="Sports" group-title="WORLD TV" tvg-logo="..\Channel\Logo\ESPN.png",ESPN 2
+rtmp://93.174.95.125:1935/edge/_definst_/rgyus7ao2ullmbt
 #EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\Logo\TRUE SPORT HD.png" tvg-name="93",TrueTennis HD
 rtmp://m22.megafun.vn/hctv/vstv018
 #EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\logo\Fox Sport+ HD.png" tvg-name="89",Fox Sport+ HD
@@ -453,7 +463,7 @@ http://xemphimso.com/xem-tv/dw.177.html
 http://xemphimso.com/xem-tv/bloomberg.180.html
 #EXTINF:-1 $ExtFilter="News" group-title="WORLD TV" tvg-logo="..\Channel\Logo\Asia news.png" tvg-name="228",Asia News
 http://xemphimso.com/xem-tv/channel-newsasia.179.html
-#EXTINF:-1 $ExtFilter="News" group-title="WORLD TV" tvg-logo="..\Channel\Logo\Russia 2.png" tvg-name="206",Russia 24
+#EXTINF:-1 $ExtFilter="News" group-title="WORLD TV" tvg-logo="..\Channel\Logo\Russia 2.png" tvg-name="272",Russia 24
 http://giniko.com/watch.php?id=251
 #EXTINF:-1 $ExtFilter="News" group-title="WORLD TV" tvg-logo="..\Channel\Logo\CCTV News.png" tvg-name="230",CCTV News
 http://103.13.228.157/streamlink.m3u8?channel_id=0ed1c715dc864ab3912d4015903a3d85
