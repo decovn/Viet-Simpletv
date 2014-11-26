@@ -257,6 +257,22 @@ rtmp://93.174.95.125:1935/edge/_definst_/31j6bqlq8e3wwc5
 rtmp://93.174.95.125:1935/edge/_definst_/dp2g1w4ip6v0zoc
 #EXTINF:-1 $ExtFilter="Sports" group-title="WORLD TV" tvg-logo="..\Channel\Logo\ESPN.png",ESPN 2
 rtmp://93.174.95.125:1935/edge/_definst_/rgyus7ao2ullmbt
+#EXTINF:-1 $ExtFilter="Sports" group-title="WORLD TV" tvg-logo="..\Channel\Logo\NTV+.png" tvg-name="199",NTV+ Futbol 1
+http://iptv.sat-elit.net/hls/124/index.m3u8
+#EXTINF:-1 $ExtFilter="Sports" group-title="WORLD TV" tvg-logo="..\Channel\Logo\NTV+.png" tvg-name="200",NTV+ Futbol 2
+http://iptv.sat-elit.net/hls/530/index.m3u8
+#EXTINF:-1 $ExtFilter="Sports" group-title="WORLD TV" tvg-logo="..\Channel\Logo\NTV+.png" tvg-name="199",NTV+ Futbol 3
+http://iptv.sat-elit.net/hls/522/index.m3u8
+#EXTINF:-1 $ExtFilter="Sports" group-title="WORLD TV" tvg-logo="..\Channel\Logo\Sky Sports 1.png" tvg-name="145",Sky Sports 1
+rtmp://$OPT:rtmp-raw=rtmpe://46.246.124.26:1935/live/ playpath=sskys1 swfUrl=http://www.hdcast.org/j2/jwplayer.flash.swf pageUrl=http://www.hdcast.org/Vd?u#bt!25 live=1 token=#yw%tt#w@kku timeout=15
+#EXTINF:-1 $ExtFilter="Sports" group-title="WORLD TV" tvg-logo="..\Channel\Logo\Sky sports 2.png" tvg-name="145",Sky Sports 2
+rtmp://$OPT:rtmp-raw=rtmpe://46.246.124.26:1935/live/ playpath=sskys2 swfUrl=http://www.hdcast.org/j2/jwplayer.flash.swf pageUrl=http://www.hdcast.org/Vd?u#bt!25 live=1 token=#yw%tt#w@kku timeout=15
+#EXTINF:-1 $ExtFilter="Sports" group-title="WORLD TV" tvg-logo="..\Channel\Logo\sky sports 3.png" tvg-name="145",Sky Sports 3
+rtmp://$OPT:rtmp-raw=rtmpe://46.246.124.26:1935/live/ playpath=sskys3 swfUrl=http://www.hdcast.org/j2/jwplayer.flash.swf pageUrl=http://www.hdcast.org/Vd?u#bt!25 live=1 token=#yw%tt#w@kku timeout=15
+#EXTINF:-1 $ExtFilter="Sports" group-title="WORLD TV" tvg-logo="..\Channel\Logo\sky sports 4.png" tvg-name="145",Sky Sports 4
+rtmp://$OPT:rtmp-raw=rtmpe://46.246.124.26:1935/live/ playpath=sskys4 swfUrl=http://www.hdcast.org/j2/jwplayer.flash.swf pageUrl=http://www.hdcast.org/Vd?u#bt!25 live=1 token=#yw%tt#w@kku timeout=15
+#EXTINF:-1 $ExtFilter="Sports" group-title="WORLD TV" tvg-logo="..\Channel\Logo\Sky Sports 5.png" tvg-name="145",Sky Sports 5
+rtmp://$OPT:rtmp-raw=rtmpe://46.246.124.26:1935/live/ playpath=sskys5 swfUrl=http://www.hdcast.org/j2/jwplayer.flash.swf pageUrl=http://www.hdcast.org/Vd?u#bt!25 live=1 token=#yw%tt#w@kku timeout=15
 #EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\Logo\TRUE SPORT HD.png" tvg-name="93",TrueTennis HD
 rtmp://m22.megafun.vn/hctv/vstv018
 #EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\logo\Fox Sport+ HD.png" tvg-name="89",Fox Sport+ HD
@@ -377,6 +393,8 @@ http://xemphimso.com/xem-tv/hbosd.185.html
 http://xemphimso.com/xem-tv/cinemax.126.html
 #EXTINF:-1 $ExtFilter="Movies" group-title="WORLD TV" tvg-logo="..\Channel\Logo\AXN.png" tvg-name="81",AXN
 http://xemphimso.com/xem-tv/axnsd.134.html
+#EXTINF:-1 $ExtFilter="Movies" group-title="HDTV" tvg-logo="..\Channel\Logo\FX HD.png" tvg-name="135",FX HD
+http://ilg.club/streamlink.m3u8?channel_id=2e0e4b05aa6e428593f3b45b710045b7&bitrate=800
 #EXTINF:-1 $ExtFilter="Movies" group-title="HDTV" tvg-logo="..\Channel\logo\sctv6.png" tvg-name="50",SCTV Văn hóa HD
 http://112.197.2.154/mlive/C006_HD_2/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Movies" group-title="HDTV" tvg-logo="..\Channel\logo\sctv7.png" tvg-name="51",SCTV Sân khấu HD
@@ -522,7 +540,7 @@ http://www.giniko.com/watch.php?id=161
 #EXTINF:-1 $ExtFilter="Document" group-title="HDTV" tvg-logo="..\Channel\logo\sctv12.png" tvg-name="56",SCTV Du lịch HD
 http://112.197.2.154/mlive/C007_HD_2/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Document" group-title="HDTV" tvg-logo="..\Channel\Logo\Nat Geo WILD HD.png" tvg-name="125",Nat Geo People HD
-http://112.197.2.154/mlive/C002_HD_2/playlist.m3u8
+http://ilg.club/streamlink.m3u8?channel_id=7ad09373f65c48d5bb6aa6c3b2ca519a&bitrate=800
 #EXTINF:-1 $ExtFilter="Document" group-title="HDTV" tvg-logo="..\Channel\Logo\Discovery World.png" tvg-name="126",Discovery World HD
 http://www.htvonline.com.vn/livetv/discovery-hd-3132336E61.html
 #EXTINF:-1 $ExtFilter="Document" group-title="HDTV" tvg-logo="..\Channel\Logo\National Geographic HD.png" tvg-name="125",National Geographic HD
