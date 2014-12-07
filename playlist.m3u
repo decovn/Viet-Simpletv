@@ -83,8 +83,6 @@ http://www.htvonline.com.vn/livetv/htv7-34336E61.html
 http://www.htvonline.com.vn/livetv/htv9-37356E61.html
 #EXTINF:-1 group-title="HDTV" tvg-logo="..\Channel\Logo\HTVC hd.png" tvg-name="77",HTVC+ HD
 http://www.htvonline.com.vn/livetv/htvc-plus-htvc+-hd-34346E61.html
-#EXTINF:-1 group-title="HDTV" tvg-logo="http://www.xn--vitsimpletv-t69e.vn/img/KBS_World.png" tvg-name="96",KBS World HD
-http://50.117.117.42:8081/live/241e8027-11ed-44dd-9fa3-08547d721659
 #EXTINF:-1 group-title="OTHER CHANNEL" tvg-logo="..\Channel\Logo\Yeah1 Special.png" tvg-name="243",Yeah1 Special
 http://www.socialtv.vn/index.php?option=com_vtv&view=play&type=channel&Itemid=119&id=424
 #EXTINF:-1 group-title="OTHER CHANNEL" tvg-logo="..\Channel\Logo\Yeah1TV.png" tvg-name="246",Yeah1 TV
@@ -248,15 +246,9 @@ http://xemphimso.com/xem-tv/fox-sport.64.html
 #EXTINF:-1 $ExtFilter="Sports" group-title="WORLD TV" tvg-logo="..\Channel\Logo\Fox Sports 2.png" tvg-name="89",Fox Sports 2
 http://xemphimso.com/xem-tv/starsports.63.html
 #EXTINF:-1 $ExtFilter="Sports" group-title="WORLD TV" tvg-logo="..\Channel\Logo\BT Sport 1.png" tvg-name="198",BT Sport 1
-rtmp://93.174.95.125:1935/edge/_definst_/thj91224cuxnfr1
+http://luxtivi.k18.us/btsport1.m3u8
 #EXTINF:-1 $ExtFilter="Sports" group-title="WORLD TV" tvg-logo="..\Channel\Logo\BT Sport 2.png" tvg-name="212",BT Sport 2
-rtmp://93.174.95.125:1935/edge/_definst_/z3ua1ed00znttfp
-#EXTINF:-1 $ExtFilter="Sports" group-title="WORLD TV" tvg-logo="..\Channel\Logo\fox soccer.png" tvg-name="89",Fox Soccer Plus
-rtmp://93.174.95.125:1935/edge/_definst_/31j6bqlq8e3wwc5
-#EXTINF:-1 $ExtFilter="Sports" group-title="WORLD TV" tvg-logo="..\Channel\Logo\ESPN.png" tvg-name="90",ESPN
-rtmp://93.174.95.125:1935/edge/_definst_/dp2g1w4ip6v0zoc
-#EXTINF:-1 $ExtFilter="Sports" group-title="WORLD TV" tvg-logo="..\Channel\Logo\ESPN.png",ESPN 2
-rtmp://93.174.95.125:1935/edge/_definst_/rgyus7ao2ullmbt
+http://luxtivi.k18.us/btsport2.m3u8
 #EXTINF:-1 $ExtFilter="Sports" group-title="WORLD TV" tvg-logo="..\Channel\Logo\NTV+.png" tvg-name="199",NTV+ Futbol 1
 http://iptv.sat-elit.net/hls/124/index.m3u8
 #EXTINF:-1 $ExtFilter="Sports" group-title="WORLD TV" tvg-logo="..\Channel\Logo\NTV+.png" tvg-name="200",NTV+ Futbol 2
@@ -358,11 +350,11 @@ rtmp://$OPT:rtmp-raw=rtmp://123.29.69.70/live/VTVCab12_250k pageUrl=http://www.x
 #EXTINF:-1 $ExtFilter="Movies" group-title="VTVcab" tvg-logo="..\Channel\logo\vtvcab2.png" tvg-name="15",VTVcab2
 http://live.accessasia.tv:1935/vnptg_channels/vctv2.480p/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Movies" group-title="VTC" tvg-logo="..\Channel\Logo\vtc6.png" tvg-name="35",VTC6
-http://www.htvonline.com.vn/livetv/vtc6-3131376E61.html
+http://xemphimso.com/xem-tv/vtc6.13.html
 #EXTINF:-1 $ExtFilter="Movies" group-title="VTC" tvg-logo="..\Channel\logo\vtc9.png" tvg-name="38",VTC9
-http://www.htvonline.com.vn/livetv/vtc9-(lets-viet)-3131326E61.html
+http://xemphimso.com/xem-tv/vtc9.14.html
 #EXTINF:-1 $ExtFilter="Movies" group-title="VTC" tvg-logo="..\Channel\logo\vtc7-todaytv.png" tvg-name="36",VTC7
-http://www.htvonline.com.vn/livetv/vtc7--today-tv-3131316E61.html
+http://xemphimso.com/xem-tv/todaytv-vtc7.1.html
 #EXTINF:-1 $ExtFilter="Movies" group-title="SCTV" tvg-logo="..\Channel\Logo\sctv1.png" tvg-name="45",SCTV1
 rtmp://$OPT:rtmp-raw=rtmpe://112.197.2.154/live//sctv1_2 live=1 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://www.tv24.vn/ token=1b#K8!3zc65ends!
 #EXTINF:-1 $ExtFilter="Movies" group-title="SCTV" tvg-logo="..\Channel\Logo\sctv9.png" tvg-name="53",SCTV9
@@ -387,8 +379,6 @@ http://xemphimso.com/xem-tv/hbosd.185.html
 http://xemphimso.com/xem-tv/cinemax.126.html
 #EXTINF:-1 $ExtFilter="Movies" group-title="WORLD TV" tvg-logo="..\Channel\Logo\AXN.png" tvg-name="81",AXN
 http://xemphimso.com/xem-tv/axnsd.134.html
-#EXTINF:-1 $ExtFilter="Movies" group-title="HDTV" tvg-logo="..\Channel\Logo\FX HD.png" tvg-name="135",FX HD
-http://ilg.club/streamlink.m3u8?channel_id=2e0e4b05aa6e428593f3b45b710045b7&bitrate=800
 #EXTINF:-1 $ExtFilter="Movies" group-title="HDTV" tvg-logo="..\Channel\Logo\Thuan viet HD.png" tvg-name="76",Thuan Viet HD
 http://www.htvonline.com.vn/livetv/thua%CC%80n-vie%CC%A3t-hd-39326E61.html
 #EXTINF:-1 $ExtFilter="Movies" group-title="HDTV" tvg-logo="..\Channel\Logo\HTVC Phim HD.png" tvg-name="71",HTVC Phim HD
@@ -482,7 +472,7 @@ http://torrent-tv.ru/torrent-online.php?translation=1815
 #EXTINF:-1 $ExtFilter="Kids" group-title="VTVcab" tvg-logo="..\Channel\Logo\vtvcab8.png" tvg-name="21",VTVcab8
 rtmp://$OPT:rtmp-raw=rtmp://123.29.69.70/live/VTVCab8_250k pageUrl=http://www.xn--vitsimpletv-t69e.vn
 #EXTINF:-1 $ExtFilter="Kids" group-title="VTC" tvg-logo="..\Channel\logo\VTC11.png" tvg-name="40",VTC11
-rtmp://119.18.186.116/live//vtc111_h
+http://xemphimso.com/xem-tv/vtc11.16.html
 #EXTINF:-1 $ExtFilter="Kids" group-title="SCTV" tvg-logo="..\Channel\Logo\sctv3.png" tvg-name="47",SCTV3
 rtmp://$OPT:rtmp-raw=rtmpe://112.197.2.154/live//sctv3_2 live=1 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://www.tv24.vn/ token=1b#K8!3zc65ends!
 #EXTINF:-1 $ExtFilter="Kids" group-title="HTV" tvg-logo="..\Channel\Logo\HTV3.png" tvg-name="65",HTV 3
@@ -509,8 +499,6 @@ http://xemphimso.com/xem-tv/tlc.178.html
 http://xemphimso.com/xem-tv/discovery.68.html
 #EXTINF:-1 $ExtFilter="Document" group-title="WORLD TV" tvg-logo="..\Channel\Logo\CCTV Russia.png" tvg-name="126",CCTV9 Documentary
 http://www.giniko.com/watch.php?id=161
-#EXTINF:-1 $ExtFilter="Document" group-title="HDTV" tvg-logo="..\Channel\Logo\Nat Geo WILD HD.png" tvg-name="125",Nat Geo People HD
-http://ilg.club/streamlink.m3u8?channel_id=7ad09373f65c48d5bb6aa6c3b2ca519a&bitrate=800
 #EXTINF:-1 $ExtFilter="Document" group-title="HDTV" tvg-logo="..\Channel\Logo\Discovery World.png" tvg-name="126",Discovery World HD
 http://www.htvonline.com.vn/livetv/discovery-hd-3132336E61.html
 #EXTINF:-1 $ExtFilter="Document" group-title="HDTV" tvg-logo="..\Channel\Logo\National Geographic HD.png" tvg-name="125",National Geographic HD
